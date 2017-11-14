@@ -1,0 +1,9 @@
+<style>
+.infoads{position: absolute;top: 0;right: 0;
+background:#D3D3D3 url(http://3.bp.blogspot.com/-4CwiCfZwE9g/VMOUrZFNhKI/AAAAAAAAAxE/S1Qarl9oIn0/s320/googleads.png) no-repeat center;
+color: #fff;width:17px;height:17px;cursor: pointer;}
+.infoads:hover p{display:block;transform-origin: 100% 0%;animation: fadeIn 0.3s ease-in-out;}
+.infoads p{  display: none;background-color: #D3D3D3;
+padding: 1px 6px;position: absolute;top: -11px;right: 15px;width: 100px;
+  border-radius: 0 0 0 9px;color: #000;font: normal 11px arial, sans-serif;} 
+</style>
